@@ -13,7 +13,7 @@ public class AddressBook {
     public AddressBook() {
         contacts = new HashMap<>();
         scanner = new Scanner(System.in);
-        load();j
+        load();
     }
 
     // Carga los contactos almacenados en el archivo
